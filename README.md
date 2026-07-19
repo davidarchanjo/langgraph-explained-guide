@@ -2,7 +2,7 @@
 
 A collection of practical, self-contained Python examples demonstrating the most important concepts in **LangGraph**.
 
-This repository is the companion codebase for my [**LangGraph Explained Guide**](), where I walk through the core concepts of LangGraph with explanations and practical examples. Every major example in the guide has a corresponding runnable Python implementation in this repository, allowing you to experiment with the code while reading.
+This repository is the companion codebase for my [**LangGraph Explained Guide**](https://dev.to/davidarchanjo/langgraph-explained-a-practical-guide-for-beginners-1cmn), where I walk through the core concepts of LangGraph with explanations and practical examples. Every major example in the guide has a corresponding runnable Python implementation in this repository, allowing you to experiment with the code while reading.
 
 Whether you're new to LangGraph or looking for concise examples of specific features, this repository is designed to serve as a hands-on learning resource for building stateful, controllable, and production-ready AI workflows.
 
